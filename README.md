@@ -1,4 +1,4 @@
-# reorganize pdf of horizontally scanned book
+# Scan splitter
 
 Re-organize a pdf file of an horizontally scanned book
 
