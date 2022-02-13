@@ -10,7 +10,7 @@ Re-organize a pdf file of an horizontally scanned book
 
 ## Installation
 
-Download main.py and install libraries from requirements.txt
+Download scan_splitter.py and install libraries from requirements.txt
 
 
 ```
@@ -25,7 +25,7 @@ second and third arguments rightmost x value (in px) of left page and the leftmo
 By default, it will split in the middle.
 
 ```
-$ python3 main.py <in.pdf> <out.pdf> <x1> <x2>
+$ python3 scan_splitter.py <in.pdf> <out.pdf> <x1> <x2>
 ```
 
 
